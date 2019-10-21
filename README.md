@@ -38,15 +38,16 @@ To check whether you've installed node.js and npm, type the following code:
 
 For node.js:
 
-node -v
+```node -v```
+
 For npm:
 
-npm -v
+```npm -v```
 If you both have node.js installed and npm, you shoud see the version, if not, install both node.js and npm by entering the following code (node.js will be installed along with npm):
 
 For npm:
 
-npm install npm@latest -g
+```npm install npm@latest -g```
 
 
 ## Step 4: Create the Bot
@@ -74,18 +75,18 @@ We have to create three in that folder.
 
 Execute the following code in the terminal:
 
-mkdir discordBot
+```mkdir discordBot```
 Navigate though the folder by typing in the following code:
 
-cd discordBot
+```cd discordBot```
 Then type the following line:
 
-npm init -y
+```npm init -y```
 This will create a package.json file inside the project folder.
 
 Let’s start first by installing a well known Javascript library for interacting with Discord API called discord.js. Type in:
 
-npm install --save discord.js
+```npm install --save discord.js```
 Ignore the warnings for now.
 
 
@@ -96,9 +97,10 @@ Using any text editor, create a file and name it "auth.json".
 
 Paste the following code:
 
-{
+```{
 “token”: “Your Bot Token”
-}
+}```
+
 Then, replace the "Your Bot Token" with your token. This can be found at: https://discordapp.com/developers/applications/
 
 Login, Click Client Secret and replace the Bot Token.
@@ -107,7 +109,7 @@ Save the file and make a new file.
 
 The next file, name this file package.json, paste the following code:
 
-{
+```{
 
 “name”: “discordBot”,
 
@@ -121,13 +123,14 @@ The next file, name this file package.json, paste the following code:
 
 “dependencies”: {}
 
-}
+}```
+
 Replace the author name with the name you want.
 Save this file as “package.json” in your Discord bot folder.
 
 At last, the last .json file will be called bot.js and paste the following code:
 
-const Discord = require('discord.js');
+```const Discord = require('discord.js');
 const client = new Discord.Client();
 const auth = require('./auth.json');client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
@@ -137,7 +140,8 @@ client.on('message', msg => {
   if (msg.content === 'ping') {
     msg.reply('pong');
   }
-});client.login(auth.token);
+});client.login(auth.token);```
+
 Save this last text file as “bot.js” in your Discord bot folder. I added a simple command that if you say "ping", the bot will reply with "Pong!"
 
 
