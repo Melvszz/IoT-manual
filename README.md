@@ -8,7 +8,7 @@ Discord is a Skype/Whats-app social media app like that brings gamers together. 
 ## Prerequisites:
 - Internet ofcourse (doh!)
 - Discord app
-- Node.js, npm
+- Node.js & npm
 - Basic knowlegde of executing commands in Terminal
 
 
@@ -24,33 +24,40 @@ The username you create has a unique number to it attached, seen as the picture 
 ## Step 2: Setting Up Your Own Channel
 In order for the bot to be created, we have to make our own server.
 
-1. When you are logged into Discord you should see something like the pictures above:
+### 1. Login to discord
+When you are logged into Discord you should see something like this:
 
-2. For the server to create, we have to click the '+' in the bottom left corner highlighted in red.
+<p align="center">
+<img src="https://cvws.icloud-content.com/B/ATowdPt17A8PUox68fbKkDZC43s2AckEmyfFj94KE8GPqAcLN7bh0tyq/Screenshot+2019-10-16+at+11.51.55.png?o=AlKmUA0qsR3qZfjqA38tA8Wny_g5ujA3CXahzrvc9SGK&v=1&x=3&a=CAogDmDZBrYjh5h-EL5QlplTJyPjABcBWfmfYcV4NqWpT_kSHRCw8qjz3i0Y0Onf894tIgEAUgRC43s2WgTh0tyq&e=1571663901&k=w2BW8rH-hS2Rkq5q82JSSg&fl=&r=a86effdb-6698-4fc5-a421-3d47b7e71e4a-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=XAxbmtGI-ca_-7QuMt-7I8NS7JI&cd=i"/></p>
 
-Give your server a name and enter the server region. Optionally you could add an image to your server. Once you completed these steps, you should see the server listing in your tabs in the left, depending on the device you're on.
+### 2. Create a server
+For the server to create, we have to click the '+' in the bottom left corner highlighted in red.
 
-Once you've done creating your own server, discord asks to invite friends to your server. Skip this step (or invite friends to your discord channel using the invite link) and voilá! Your own server has been made.
+Give your server a name and enter the server region. Optionally you could add an image to your server. Once you completed these steps, you should see the server listing.
 
+<p align="center">
+<img src="https://cvws.icloud-content.com/B/AVmH7LZQCSgeucARqroxx6lEXf_zAb2l8NaYSBO5251cvXsgYHPFK2en/Screenshot+2019-10-16+at+12.08.44.png?o=AjnaFnt4z5M03JIB-sOTLAmG9wDlzYavwBul9fG1XfAA&v=1&x=3&a=CAogaKythc2GH7mkex9I7BQHf33pQvlzOYtvt9p0NlffGwASHRCWwP_03i0Ytre29d4tIgEAUgREXf_zWgTFK2en&e=1571667418&k=oPNZNqjU131NzUiffI_DbQ&fl=&r=54612dce-f425-4562-a859-a6cce8124eb0-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=ldbmeXFC3KYIy0BsSj2PzNwBUzs&cd=i"/></p>
+
+Once you've done creating your own server, discord asks to invite friends to your server. Skip this step and voilá! Your own server has been made.
 
 ## Step 3: Install Node.js and Npm
 ### If you already have node.js and npm, you can proceed to step 4.
 ### 1. Check for node.js and npm
-First we need to make sure that we need to make a local project for the API to make calls. We also have to get a token for the bot. To do this, we have to add some lines in the terminal. To open terminal, press CMD + spacebar and search for terminal. If you done this correct, the terminal should show up as the image above.
+First we need to make sure that we need to make a local directory. To do this, we have to add some lines in the terminal. To open terminal, press CMD + spacebar and search for terminal. If you done this correct, the terminal should show up as the image above.
 
 To check whether you've installed node.js and npm, type the following code:
 
-For node.js:
+**For node.js:**
 
 ```node -v```
 
-For npm:
+**For npm:**
 
 ```npm -v```
 
 If you both have node.js installed and npm, you shoud see the version, if not, install both node.js and npm by entering the following code (node.js will be installed along with npm):
 
-For npm:
+**For npm:**
 
 ```npm install npm@latest -g```
 
