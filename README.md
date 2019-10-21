@@ -29,6 +29,7 @@ Once you've done creating your own server, discord asks to invite friends to you
 
 
 ## Step 3: Install Node.js and Npm
+### If you already have node.js and npm, you can proceed to step 4.
 ### 1. Check for node.js and npm
 First we need to make sure that we need to make a local project for the API to make calls. We also have to get a token for the bot. To do this, we have to add some lines in the terminal. To open terminal, press CMD + spacebar and search for terminal. If you done this correct, the terminal should show up as the image above.
 
@@ -41,12 +42,14 @@ For node.js:
 For npm:
 
 ```npm -v```
+
 If you both have node.js installed and npm, you shoud see the version, if not, install both node.js and npm by entering the following code (node.js will be installed along with npm):
 
 For npm:
 
 ```npm install npm@latest -g```
 
+For a full guide on how to install node.js and npm: https://nodejs.dev/how-to-install-nodejs
 
 ## Step 4: Create the Bot
 We need to make an application and bot in order for our bot to work. We also need to send it to our discord server.
