@@ -1,26 +1,23 @@
-# Manual
-A quick guide
-
-
-In this tutorial I'm going to show how to make an own interactive bot that works with some few commands.
+# How to create and edit a bot in Discord
+## In this tutorial I'm going to show how to make an own interactive bot that works with some few commands.
 
 Discord is a Skype/Whats-app social media app like that brings gamers together. They can have an own channel, check which game each member play, call each other and chat with each other. One of the possibilities is to add a bot to the server. This can either be an automated bot, or a bot that plays music for example. The possibilities for a bot is endless in fact, because you can program the bot how you want.
 
 
-<bold>Prerequisites:</bold>
+## Prerequisites:
 - Internet ofcourse (doh!)
 - Discord app
 - Node.js, npm
 - Basic knowlegde of executing commands in Terminal
 
 
-Step 1: Download the Discord App
+## Step 1: Download the Discord App
 Download the Discord app. This app is a multi-device app that can be downloaded from https://discordapp.com
 
 The username you create has a unique number to it attached, seen as the picture above. You use this name + # to add other discord members.
 
 
-Step 2: Setting Up Your Own Channel
+## Step 2: Setting Up Your Own Channel
 In order for the bot to be created, we have to make our own server.
 
 1. When you are logged into Discord you should see something like the pictures above:
@@ -32,8 +29,8 @@ Give your server a name and enter the server region. Optionally you could add an
 Once you've done creating your own server, discord asks to invite friends to your server. Skip this step (or invite friends to your discord channel using the invite link) and voilá! Your own server has been made.
 
 
-Step 3: Install Node.js and Npm
-1. Check for node.js and npm
+## Step 3: Install Node.js and Npm
+### 1. Check for node.js and npm
 
 First we need to make sure that we need to make a local project for the API to make calls. We also have to get a token for the bot. To do this, we have to add some lines in the terminal. To open terminal, press CMD + spacebar and search for terminal. If you done this correct, the terminal should show up as the image above.
 
@@ -52,14 +49,14 @@ For npm:
 npm install npm@latest -g
 
 
-Step 4: Create the Bot
+## Step 4: Create the Bot
 We need to make an application and bot in order for our bot to work. We also need to send it to our discord server.
 
-1. Create the application & bot:
+### 1. Create the application & bot:
 
 First, head to discordapp.com/developers/applications/me. Log in with your account. Click New Application to get started, and give your application a name then click create. On the left tab, select Bot. Create the bot. If the bot is created, you will receive a message in the picture above that the bot has been created.
 
-2. Send the bot to your Discord server.
+### 2. Send the bot to your Discord server.
 
 In General Information, copy your client ID, copy the ID and paste it in this URL, replacing the numbers:
 
@@ -68,10 +65,10 @@ https://discordapp.com/oauth2/authorize?&client_id...
 Copy the URL with your client ID number in it into your browser. That’ll take you to a website where you can tell Discord where to send your bot. You’ll know it worked if you open Discord in an app or in your browser and navigate to your server. The channel will say a bot has joined the room, and you’ll see it on the right side menu under the list of online members.
 
 
-Step 5: Create a Local Directory
+## Step 5: Create a Local Directory
 We need to make a folder on your pc that will store all of your bot's files. Name it something like discordBot or something that can recognized easily.
 
-1. Create a folder and three files
+### 1. Create a folder and three files
 
 We have to create three in that folder.
 
@@ -93,7 +90,7 @@ Ignore the warnings for now.
 
 
 
-2. Creating a file for the token
+### 2. Creating a file for the token
 
 Using any text editor, create a file and name it "auth.json".
 
@@ -144,13 +141,13 @@ client.on('message', msg => {
 Save this last text file as “bot.js” in your Discord bot folder. I added a simple command that if you say "ping", the bot will reply with "Pong!"
 
 
-Step 6: Last Step & Testing the Bot
-1. Open terminal
+## Step 6: Last Step & Testing the Bot
+### 1. Open terminal
 
 In the Terminal, we need to check if we did everything correctly. Navigate to the folder by typing in the following command:
 
 cd discordBot
-2. Run the bot!
+### 2. Run the bot!
 
 Then at last, run the command as shown below:
 
