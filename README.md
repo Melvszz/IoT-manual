@@ -28,7 +28,7 @@ In order for the bot to be created, we have to make our own server.
 When you are logged into Discord you should see something like this:
 
 <p align="center">
-<img src="https://cvws.icloud-content.com/B/ATowdPt17A8PUox68fbKkDZC43s2AckEmyfFj94KE8GPqAcLN7bh0tyq/Screenshot+2019-10-16+at+11.51.55.png?o=AlKmUA0qsR3qZfjqA38tA8Wny_g5ujA3CXahzrvc9SGK&v=1&x=3&a=CAogDmDZBrYjh5h-EL5QlplTJyPjABcBWfmfYcV4NqWpT_kSHRCw8qjz3i0Y0Onf894tIgEAUgRC43s2WgTh0tyq&e=1571663901&k=w2BW8rH-hS2Rkq5q82JSSg&fl=&r=a86effdb-6698-4fc5-a421-3d47b7e71e4a-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=XAxbmtGI-ca_-7QuMt-7I8NS7JI&cd=i"/></p>
+<img src="https://cvws.icloud-content.com/B/AfWkk3-OS5MptLh6RbL_tmm0oYySASER5LhKOGM-AEizAAVg9irpALEC/Screenshot+2019-10-16+at+11.55.13.png?o=At1XYnvPd8u7ssjPhF4zRixOy8TOK_CsCrThhmxNn2O5&v=1&x=3&a=CAogJ6Eg9thPWgwd18Ljw7u7fd08px4HLkIlrXgZEeayBNwSHRDb9Y_13i0Y--zG9d4tIgEAUgS0oYySWgTpALEC&e=1571667687&k=rnSuzGQfAdFzCNnFzs6kgA&fl=&r=8c15db3a-397e-41eb-bfef-c945e14580c9-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=Kggs8Rszs3fZ1g3PKN2qZMMvlRQ&cd=i"/></p>
 
 ### 2. Create a server
 For the server to create, we have to click the '+' in the bottom left corner highlighted in red.
