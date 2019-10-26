@@ -46,7 +46,7 @@ Once you've done creating your own server, discord asks to invite friends to you
 First we need to make sure that we need to make a local directory. To do this, we have to add some lines in the terminal. To open terminal, press CMD + spacebar and search for terminal. If you done this correct, the terminal should show up as the image above.
 
 <p align="center">
-<img src="https://www.dropbox.com/s/vn6dogz7chn9io0/Screenshot%202019-10-21%20at%2015.16.21.png?dl=0" width="50%" height="50%" /></p>
+<img src="https://previews.dropbox.com/p/thumb/AAlQtxAOdqEhpEdZpSIn3ChMlwv1lNjomymF3FwgwIPMoX-hYcXYif_sqtau-SMWKX6hPtsuS4Gmv--c9xHDQkLsOjPQH79Jd3V8yYTB7JZguESTNsEc1VNtD9iFCwINXoRBSV4qKwPq5XN37Ied2LEWaa-5Z-whWsg49MKEcRRpIND92oBO-BBZ_u9q7ZynrqFa_3GWFUOCvUxDDOlm93py5fJhwgWcGyOKVSUhzC6viRbeaa3CBJDcYqhFcb0W8mIJhPPJBTb9ndH9VX_FeNTdGcYkS6OI0KFimtRVPwt2H_NM5eLdTYpX2KobQCYvi4ZIk9mobPjRATMPj8oGIg5MCfbSFY_awdlSCqfuxKW5jA/p.png?fv_content=true&size_mode=5" width="50%" height="50%" /></p>
 
 To check whether you've installed node.js and npm, type the following code:
 
