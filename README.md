@@ -45,8 +45,7 @@ Once you've done creating your own server, discord asks to invite friends to you
 ### 1. Check for node.js and npm
 First we need to make sure that we need to make a local directory. To do this, we have to add some lines in the terminal. To open terminal, press CMD + spacebar and search for terminal. If you done this correct, the terminal should show up as the image above.
 
-<p align="center">
-<img src="https://previews.dropbox.com/p/thumb/AAlQtxAOdqEhpEdZpSIn3ChMlwv1lNjomymF3FwgwIPMoX-hYcXYif_sqtau-SMWKX6hPtsuS4Gmv--c9xHDQkLsOjPQH79Jd3V8yYTB7JZguESTNsEc1VNtD9iFCwINXoRBSV4qKwPq5XN37Ied2LEWaa-5Z-whWsg49MKEcRRpIND92oBO-BBZ_u9q7ZynrqFa_3GWFUOCvUxDDOlm93py5fJhwgWcGyOKVSUhzC6viRbeaa3CBJDcYqhFcb0W8mIJhPPJBTb9ndH9VX_FeNTdGcYkS6OI0KFimtRVPwt2H_NM5eLdTYpX2KobQCYvi4ZIk9mobPjRATMPj8oGIg5MCfbSFY_awdlSCqfuxKW5jA/p.png?fv_content=true&size_mode=5" width="50%" height="50%" /></p>
+<img src="https://lh3.googleusercontent.com/dFrVaG3ZNfBd_TGNx5mcFeE1FdJH-cV9R0NfAC7p_RBaurLWiAJ6ntuCzZ-X3wVztrKLs2rUCs6DOlkwNMjoh3nY1JtzcCNm1ianwkfaDVTayfSjxh6rxREZQjUW3ZtjKkDlKLcGvRemH44HiV9ND376Ebdlv6bQfjQsfItr-gD3m2_C7z_H2_CuRryWejdTYS5k765oizJZ_CS0Ee3340BPTLeiNvRGNI9gQx_HkCrGJaoP9NeL24H7nZZySGvWp7kmzdzJhbNpRXQjk7J2J8vNbmsdUG3VbQm1c_LkJ20przcqurMrIwHuEu3M5yP5WC4CPuO_nGf5d51WZcjpgIo21NtPt3f_6T-2SYsmyRRe0ercQGlDgtwjTU1EFRHb_ewAcSpANnHe7vybH4khf0On4_wbfUNVAO15VIQ-RoqY8dhjAN5zPhGe0RsnuLEq1gHJC_-Tkeczm0GM73OKDOGv2Xcml2kBYZ2X2Owyo8-lO5Cr4OCHCLZgGEGgVoA5MzrrmCw0Guxrzngi46gH2yOEjmqD-5lIqKVj9nAOcfOE1L8gy7OptgQDWM4XODbAwofIDqPKzUNqy216KMjkv_LbvMTDQpXA5q-1cVwGx1SWuj23XPp_ZYmgjPxAcMhQWguGn2PjAuW3zrCnFVjIWLrDvznqg8kJlzwnVdKWmjqL49m2c-TrazXbvBY-i2HXEnPhs2ViLkhzMFd8Do5tRxP_ofxrMct_NSVJYN0zsg6WJ1Q=w1138-h724-no" width="50%" height="50%" /></p>
 
 To check whether you've installed node.js and npm, type the following code:
 
@@ -60,7 +59,6 @@ To check whether you've installed node.js and npm, type the following code:
 
 If you both have node.js installed and npm, you shoud see the version.
 
-<p align="center">
 <img src="https://lh3.googleusercontent.com/Wn3cKZ_1cdphxXZSBmL_qlg241uVMTU00StnCON1x2MDNOw15Lh_ufxNCL3yn-eYQH_jRsNLEK8Mh_p9G8qn6AT2OkSzQmlCRBu-li1sknZNqWJTg2vE6Ib1Zqu9YcjTNmVj_qak49uhVA9rGaDbPQ1MRgpNBK0jw0n9claWtaAlq7cM6hYvEiRt2NFMVLfSgmbzNWvY3of8-g4OMPJK4jLpWuhUdztoMmq1xO2rLxNre9HU0Ra443_vilTIF6paOkITGPtChf7klMjA0OX_PFSPKBEGaufqYtbtrQUrl1PYXgLjaI8IlzODbJGd-m28gFfURRtJ48MqqrvKPLg-YzTkj2MUdJw9FEQGWJTks1MyFTt2cxh06hsP9M2wxfi-Q2JbpF6kOjZ6DnsGzDxmOtAoLTXL0EXCZKeIGzyRULrAF6qk1W5_W0G77iRebUAYfJ_BqWo4HYFP0W4QrvOEDP-0jWxvdgWBqkpP-7UqJh6nRCcOQm9XZpUa9lN_BoN9tFh2SGTPiJP8EmEEM-RgO8buirQfKLrARc6anvUsDWXmYjOKq5oijq5mRJuPnSuY-jyQEEHk1Z961a8UB0v2L_XAd5QIqqNbigPRyO2XFMI5mFx-xvTV-RDdHjyMpnz-DmOxHSr6drsRvQGDEabzW2muykmsry3uUywaR2mv76-yFXeegMBlkyRuWZAJAaDlxbkpBAkeyNJlM5vig6CFyKmx-G1AOEIdh78bBji2h_Vt4c0=w1134-h654-no" width="50%" height="50%" /></p>
 
 If not, install both node.js and npm by entering the following code (node.js will be installed along with npm):
@@ -77,21 +75,18 @@ We need to make an application and bot in order for our bot to work. We also nee
 ### 1. Create the application & bot:
 First, head to discordapp.com/developers/applications/me. Log in with your account. Click New Application to get started, and give your application a name then click create. On the left tab, select Bot. Create the bot. If the bot is created, you will receive a message in the picture above that the bot has been created.
 
-<p align="center">
-<img src="https://cvws.icloud-content.com/B/Af5hRzkWZuC3vsoAe5erDTNOl3JAAbb2M2McwHzGoJ9GutQzluaarZ_F/Screenshot+2019-10-21+at+16.28.00.png?o=Aut_FJAR4OG4J1LMFYRiLNaro02VbRCym1oueF8qj9PF&v=1&x=3&a=CAogmm5jOlrG8v4fDx0XCFevnVGrqiPMq8cxe7mVjbg1duYSHRDk1uL13i0YhM6Z9t4tIgEAUgROl3JAWgSarZ_F&e=1571669042&k=Yq9dacinojmpzOU8mAzWJg&fl=&r=f1298149-db9a-47f0-a00e-0bfe544ff254-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=J4hHBB_vXrkXnG4zmtBc0biNYoc&cd=i" width="50%" height="50%" /></p>
+<img src="https://photos.google.com/share/AF1QipPOiCaoDnBDYWDjH9z2zoO5RBj4Lpy8jpAfTuAQFMt-sBLi_mu0NJ7NLXUgZNgpYQ/photo/AF1QipNfd-cqpvo-DEp9xQp2HbIi_mvPbtKMiABN-fOY?key=VHVOamZGVmFfNEl5Rng3REhJMXFUU2ZEZVZFTEln" width="50%" height="50%" /></p>
 
 ### 2. Send the bot to your Discord server.
 In the first tab of www.discordapp.com/developers, select OAuth2. Scroll a bit down and select bot from the Scope list.
 
-<p align="center">
-<img src="https://cvws.icloud-content.com/B/AdTzmUeaBsgBSAQ1_P70J4mlgAa3AX2ULodX5NKeepvwmaSQiv5ppi-B/Screenshot+2019-10-21+at+16.36.51.png?o=AhCxy1IJrp9oYpxEllgI6IhuNnJ_p8TZUJ7obRrihJDS&v=1&x=3&a=CAogl1YEgeAlXuNGUjjSK1wuXLVcDCkKq_Y48gUx4Bjnfg0SHRDj6ob23i0Yg-K99t4tIgEAUgSlgAa3WgRppi-B&e=1571669635&k=FqPJczHuQH16wE43VA204w&fl=&r=1f83f53f-32b4-4428-bd3b-1bc348a5b697-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=IHGF4TL03wiO2UVBM8nLVR-x_Bw&cd=i /></p>
+<img src="https://photos.google.com/share/AF1QipPOiCaoDnBDYWDjH9z2zoO5RBj4Lpy8jpAfTuAQFMt-sBLi_mu0NJ7NLXUgZNgpYQ/photo/AF1QipNNILERhp_4pD3oWb-r7u0aNxjGAsyBcxZuj9SW?key=VHVOamZGVmFfNEl5Rng3REhJMXFUU2ZEZVZFTEln"/></p>
 
 Then, in the list beneath, tick the following boxes:
 
-<p align="center">
-<img src="https://cvws.icloud-content.com/B/AXF08egAUA9EaF6Kd1bD3_VZv38BAbvCceAQ5C8rdUdVQLWokoqLRdlE/Screenshot+2019-10-21+at+16.38.07.png?o=Ar1n56sZHgMyjVDl1mRxfBqFSPruvO5PMqFx9OzH35PK&v=1&x=3&a=CAogC8i0OX_Sdn4DfkomITajDFiREZVhaPb0I1Lj455KYHwSHRDt6ob23i0YjeK99t4tIgEAUgRZv38BWgSLRdlE&e=1571669635&k=69U-o3jjmbqnrwoq_HFcHQ&fl=&r=1f83f53f-32b4-4428-bd3b-1bc348a5b697-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=camAskSI7HjOUnjMvwWhX-5Xwvo&cd=i /></p>
+<img src="https://photos.google.com/share/AF1QipPOiCaoDnBDYWDjH9z2zoO5RBj4Lpy8jpAfTuAQFMt-sBLi_mu0NJ7NLXUgZNgpYQ/photo/AF1QipM9r1Z0Skxxw3SgcQy8fr9oKjCcJ_gGiDS4iZTM?key=VHVOamZGVmFfNEl5Rng3REhJMXFUU2ZEZVZFTEln"/></p>
 
-At last, copy the link between the scope and permissions and paste in in your webbrowser's address bar
+At last, copy the link between the scope and permissions on the same page and paste in in your webbrowser's address bar.
 
 
 ## Step 5: Create a Local Directory
@@ -100,7 +95,7 @@ We need to make a folder on your pc that will store all of your bot's files. Nam
 ### 1. Create a folder and three files
 We have to create three in that folder.
 
-Execute the following code in the terminal:
+Execute the following code in the terminal by opening the terminal again using CMD + spacebar and search for 'Terminal':
 
 ```mkdir discordBot```
 
