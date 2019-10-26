@@ -122,9 +122,11 @@ Using any text editor, create a file and name it "auth.json".
 
 Paste the following code:
 
-```{
+```
+{
 “token”: “Your Bot Token”
-}```
+}
+```
 
 Then, replace the "Your Bot Token" with your token. This can be found at: https://discordapp.com/developers/applications/
 
@@ -148,14 +150,16 @@ The next file, name this file package.json, paste the following code:
 
 “dependencies”: {}
 
-}```
+}
+```
 
 Replace the author name with the name you want.
 Save this file as “package.json” in your Discord bot folder.
 
 At last, the last .json file will be called bot.js and paste the following code:
 
-```const Discord = require('discord.js');
+```
+const Discord = require('discord.js');
 const client = new Discord.Client();
 const auth = require('./auth.json');client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
@@ -165,7 +169,8 @@ client.on('message', msg => {
   if (msg.content === 'ping') {
     msg.reply('pong');
   }
-});client.login(auth.token);```
+});client.login(auth.token);
+```
 
 Save this last text file as “bot.js” in your Discord bot folder. I added a simple command that if you say "ping", the bot will reply with "Pong!"
 
