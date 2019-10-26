@@ -61,7 +61,7 @@ To check whether you've installed node.js and npm, type the following code:
 If you both have node.js installed and npm, you shoud see the version.
 
 <p align="center">
-<img src="https://www.dropbox.com/s/0z0am55r6n451dt/Screenshot%202019-10-16%20at%2012.25.52.png?dl=0" width="50%" height="50%" /></p>
+<img src="https://lh3.googleusercontent.com/Wn3cKZ_1cdphxXZSBmL_qlg241uVMTU00StnCON1x2MDNOw15Lh_ufxNCL3yn-eYQH_jRsNLEK8Mh_p9G8qn6AT2OkSzQmlCRBu-li1sknZNqWJTg2vE6Ib1Zqu9YcjTNmVj_qak49uhVA9rGaDbPQ1MRgpNBK0jw0n9claWtaAlq7cM6hYvEiRt2NFMVLfSgmbzNWvY3of8-g4OMPJK4jLpWuhUdztoMmq1xO2rLxNre9HU0Ra443_vilTIF6paOkITGPtChf7klMjA0OX_PFSPKBEGaufqYtbtrQUrl1PYXgLjaI8IlzODbJGd-m28gFfURRtJ48MqqrvKPLg-YzTkj2MUdJw9FEQGWJTks1MyFTt2cxh06hsP9M2wxfi-Q2JbpF6kOjZ6DnsGzDxmOtAoLTXL0EXCZKeIGzyRULrAF6qk1W5_W0G77iRebUAYfJ_BqWo4HYFP0W4QrvOEDP-0jWxvdgWBqkpP-7UqJh6nRCcOQm9XZpUa9lN_BoN9tFh2SGTPiJP8EmEEM-RgO8buirQfKLrARc6anvUsDWXmYjOKq5oijq5mRJuPnSuY-jyQEEHk1Z961a8UB0v2L_XAd5QIqqNbigPRyO2XFMI5mFx-xvTV-RDdHjyMpnz-DmOxHSr6drsRvQGDEabzW2muykmsry3uUywaR2mv76-yFXeegMBlkyRuWZAJAaDlxbkpBAkeyNJlM5vig6CFyKmx-G1AOEIdh78bBji2h_Vt4c0=w1134-h654-no" width="50%" height="50%" /></p>
 
 If not, install both node.js and npm by entering the following code (node.js will be installed along with npm):
 
