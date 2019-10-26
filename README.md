@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://miro.medium.com/max/1838/1*L613vjPIEp0o2TeZnEbg0w.jpeg" width="50%" height="50%"/></p>
 
-Discord is a Skype/Whats-app social media app like that brings gamers together. They can have an own channel, check which game each friend is playing, call each other and chat with each other. One of the possibilities is to add a bot to the server. This can either be an automated bot, or a bot that plays music for example. The possibilities for a bot is endless in fact, because you can program the bot how you want.
+Discord is a Skype/Whats-app social media app like that brings gamers together. They can have an own channel, check which game each friend is playing, call each other and chat with each other. One of the possibilities is to add a bot to the server. This can either be an automated bot, or a bot that plays music for example. The possibilities for a bot is endless in fact, because you can program the bot how you want. All the commands you give to the bot are in JavaScript. So if you're handy with JavaScript, you can program the bot just the way you want them to be a bot!
 
 ## Prerequisites:
 - Internet ofcourse (doh!)
@@ -46,7 +46,7 @@ Once you've done creating your own server, discord asks to invite friends to you
 First we need to make sure that we need to make a local directory. To do this, we have to add some lines in the terminal. To open terminal, press CMD + spacebar and search for terminal. If you done this correct, the terminal should show up as the image above.
 
 <p align="center">
-<img src="https://cvws.icloud-content.com/B/AeTAA_bU9cf9_2DgdmFOCa-KVJkIAbDMUzdGHH_XZucxIOi0EgAZWDfw/Screenshot+2019-10-21+at+15.16.21.png?o=AmHuMraQe0LWpa-PUqxWscgGAmrnLb2CNvdGYn9ZdvpO&v=1&x=3&a=CAogN-_lAHjCSY19aZAHIlYt-LGhyBdEkRXj5OALBSfzA4QSHRDIsLb13i0Y6Kft9d4tIgEAUgSKVJkIWgQZWDfw&e=1571668317&k=LjyZUeaORIhBgafJbTGEhQ&fl=&r=d27e33a0-86c0-44d6-b0bf-1dde3fbddfc8-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=YLCAs3WmSnSje1DC-yKEqK8cGeU&cd=i" width="50%" height="50%" /></p>
+<img src="https://www.dropbox.com/s/vn6dogz7chn9io0/Screenshot%202019-10-21%20at%2015.16.21.png?dl=0" width="50%" height="50%" /></p>
 
 To check whether you've installed node.js and npm, type the following code:
 
@@ -58,7 +58,12 @@ To check whether you've installed node.js and npm, type the following code:
 
 ```npm -v```
 
-If you both have node.js installed and npm, you shoud see the version, if not, install both node.js and npm by entering the following code (node.js will be installed along with npm):
+If you both have node.js installed and npm, you shoud see the version.
+
+<p align="center">
+<img src="https://www.dropbox.com/s/0z0am55r6n451dt/Screenshot%202019-10-16%20at%2012.25.52.png?dl=0" width="50%" height="50%" /></p>
+
+If not, install both node.js and npm by entering the following code (node.js will be installed along with npm):
 
 **For npm:**
 
