@@ -19,7 +19,7 @@ This app is a multi-device app that can be downloaded from https://discordapp.co
 ### 2. Create an account
 The username you create has a unique number to it attached, seen as the picture below.
 <p align="left">
-<img src="https://cvws.icloud-content.com/B/ATowdPt17A8PUox68fbKkDZC43s2AckEmyfFj94KE8GPqAcLN7bh0tyq/Screenshot+2019-10-16+at+11.51.55.png?o=AlKmUA0qsR3qZfjqA38tA8Wny_g5ujA3CXahzrvc9SGK&v=1&x=3&a=CAogDmDZBrYjh5h-EL5QlplTJyPjABcBWfmfYcV4NqWpT_kSHRCw8qjz3i0Y0Onf894tIgEAUgRC43s2WgTh0tyq&e=1571663901&k=w2BW8rH-hS2Rkq5q82JSSg&fl=&r=a86effdb-6698-4fc5-a421-3d47b7e71e4a-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=XAxbmtGI-ca_-7QuMt-7I8NS7JI&cd=i" width="20%" height="20%"/></p>
+<img src="https://i.ibb.co/qgqwhTh/Screenshot-2019-10-16-at-11-51-55.png" width="50%" height="50%"/></p>
 
 ## Step 2: Setting Up Your Own Channel
 In order for the bot to be created, we have to make our own server.
@@ -75,7 +75,7 @@ We need to make an application and bot in order for our bot to work. We also nee
 ### 1. Create the application & bot:
 First, head to discordapp.com/developers/applications/me. Log in with your account. Click New Application to get started, and give your application a name then click create. On the left tab, select Bot. Create the bot. If the bot is created, you will receive a message in the picture above that the bot has been created.
 
-<img src="https://photos.google.com/share/AF1QipPOiCaoDnBDYWDjH9z2zoO5RBj4Lpy8jpAfTuAQFMt-sBLi_mu0NJ7NLXUgZNgpYQ/photo/AF1QipNfd-cqpvo-DEp9xQp2HbIi_mvPbtKMiABN-fOY?key=VHVOamZGVmFfNEl5Rng3REhJMXFUU2ZEZVZFTEln" width="50%" height="50%" /></p>
+<img src="https://photos.google.com/share/AF1QipPOiCaoDnBDYWDjH9z2zoO5RBj4Lpy8jpAfTuAQFMt-sBLi_mu0NJ7NLXUgZNgpYQ/photo/AF1QipNfd-cqpvo-DEp9xQp2HbIi_mvPbtKMiABN-fOY?key=VHVOamZGVmFfNEl5Rng3REhJMXFUU2ZEZVZFTEln" width="50%" height="50%"/></p>
 
 ### 2. Send the bot to your Discord server.
 In the first tab of www.discordapp.com/developers, select OAuth2. Scroll a bit down and select bot from the Scope list.
