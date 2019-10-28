@@ -117,7 +117,6 @@ Let’s start first by installing a well known Javascript library for interactin
 ```npm install --save discord.js```
 
 <img src="https://i.ibb.co/XCBWmm6/Screenshot-2019-10-28-at-09-15-34.png"/>
---- insert photo ----
 
 ### 2. Creating a file for the token
 Using any text editor, create a file inside the local directory map called discordBot and name it "auth.json".
