@@ -19,7 +19,7 @@ This app is a multi-device app that can be downloaded from https://discordapp.co
 ### 2. Create an account
 The username you create has a unique number to it attached, seen as the picture below.
 <p align="left">
-<img src="https://i.ibb.co/qgqwhTh/Screenshot-2019-10-16-at-11-51-55.png" width="50%" height="50%"/></p>
+<img src="https://i.ibb.co/qgqwhTh/Screenshot-2019-10-16-at-11-51-55.png" width="20%" height="20%"/></p>
 
 ## Step 2: Setting Up Your Own Channel
 In order for the bot to be created, we have to make our own server.
@@ -28,7 +28,7 @@ In order for the bot to be created, we have to make our own server.
 When you are logged into Discord you should see something like this:
 
 <p align="center">
-<img src="https://cvws.icloud-content.com/B/AfWkk3-OS5MptLh6RbL_tmm0oYySASER5LhKOGM-AEizAAVg9irpALEC/Screenshot+2019-10-16+at+11.55.13.png?o=At1XYnvPd8u7ssjPhF4zRixOy8TOK_CsCrThhmxNn2O5&v=1&x=3&a=CAogJ6Eg9thPWgwd18Ljw7u7fd08px4HLkIlrXgZEeayBNwSHRDb9Y_13i0Y--zG9d4tIgEAUgS0oYySWgTpALEC&e=1571667687&k=rnSuzGQfAdFzCNnFzs6kgA&fl=&r=8c15db3a-397e-41eb-bfef-c945e14580c9-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=Kggs8Rszs3fZ1g3PKN2qZMMvlRQ&cd=i"/></p>
+<img src="https://i.ibb.co/N9L9Vgc/Screenshot-2019-10-16-at-11-55-13.png"/></p>
 
 ### 2. Create a server
 For the server to create, we have to click the '+' in the bottom left corner highlighted in red.
@@ -36,7 +36,7 @@ For the server to create, we have to click the '+' in the bottom left corner hig
 Give your server a name and enter the server region. Optionally you could add an image to your server. Once you completed these steps, you should see the server listing.
 
 <p align="center">
-<img src="https://cvws.icloud-content.com/B/AVmH7LZQCSgeucARqroxx6lEXf_zAb2l8NaYSBO5251cvXsgYHPFK2en/Screenshot+2019-10-16+at+12.08.44.png?o=AjnaFnt4z5M03JIB-sOTLAmG9wDlzYavwBul9fG1XfAA&v=1&x=3&a=CAogaKythc2GH7mkex9I7BQHf33pQvlzOYtvt9p0NlffGwASHRCWwP_03i0Ytre29d4tIgEAUgREXf_zWgTFK2en&e=1571667418&k=oPNZNqjU131NzUiffI_DbQ&fl=&r=54612dce-f425-4562-a859-a6cce8124eb0-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=ldbmeXFC3KYIy0BsSj2PzNwBUzs&cd=i"/></p>
+<img src="https://i.ibb.co/wNQvxGp/Screenshot-2019-10-16-at-12-08-44.png"/></p>
 
 Once you've done creating your own server, discord asks to invite friends to your server. Skip this step and voilá! Your own server has been made.
 
@@ -45,7 +45,7 @@ Once you've done creating your own server, discord asks to invite friends to you
 ### 1. Check for node.js and npm
 First we need to make sure that we need to make a local directory. To do this, we have to add some lines in the terminal. To open terminal, press CMD + spacebar and search for terminal. If you done this correct, the terminal should show up as the image above.
 
-<img src="https://lh3.googleusercontent.com/dFrVaG3ZNfBd_TGNx5mcFeE1FdJH-cV9R0NfAC7p_RBaurLWiAJ6ntuCzZ-X3wVztrKLs2rUCs6DOlkwNMjoh3nY1JtzcCNm1ianwkfaDVTayfSjxh6rxREZQjUW3ZtjKkDlKLcGvRemH44HiV9ND376Ebdlv6bQfjQsfItr-gD3m2_C7z_H2_CuRryWejdTYS5k765oizJZ_CS0Ee3340BPTLeiNvRGNI9gQx_HkCrGJaoP9NeL24H7nZZySGvWp7kmzdzJhbNpRXQjk7J2J8vNbmsdUG3VbQm1c_LkJ20przcqurMrIwHuEu3M5yP5WC4CPuO_nGf5d51WZcjpgIo21NtPt3f_6T-2SYsmyRRe0ercQGlDgtwjTU1EFRHb_ewAcSpANnHe7vybH4khf0On4_wbfUNVAO15VIQ-RoqY8dhjAN5zPhGe0RsnuLEq1gHJC_-Tkeczm0GM73OKDOGv2Xcml2kBYZ2X2Owyo8-lO5Cr4OCHCLZgGEGgVoA5MzrrmCw0Guxrzngi46gH2yOEjmqD-5lIqKVj9nAOcfOE1L8gy7OptgQDWM4XODbAwofIDqPKzUNqy216KMjkv_LbvMTDQpXA5q-1cVwGx1SWuj23XPp_ZYmgjPxAcMhQWguGn2PjAuW3zrCnFVjIWLrDvznqg8kJlzwnVdKWmjqL49m2c-TrazXbvBY-i2HXEnPhs2ViLkhzMFd8Do5tRxP_ofxrMct_NSVJYN0zsg6WJ1Q=w1138-h724-no" width="50%" height="50%" /></p>
+<img src="https://i.ibb.co/mHmgLH2/Screenshot-2019-10-21-at-15-16-21.png" width="50%" height="50%" /></p>
 
 To check whether you've installed node.js and npm, type the following code:
 
@@ -59,7 +59,7 @@ To check whether you've installed node.js and npm, type the following code:
 
 If you both have node.js installed and npm, you shoud see the version.
 
-<img src="https://lh3.googleusercontent.com/Wn3cKZ_1cdphxXZSBmL_qlg241uVMTU00StnCON1x2MDNOw15Lh_ufxNCL3yn-eYQH_jRsNLEK8Mh_p9G8qn6AT2OkSzQmlCRBu-li1sknZNqWJTg2vE6Ib1Zqu9YcjTNmVj_qak49uhVA9rGaDbPQ1MRgpNBK0jw0n9claWtaAlq7cM6hYvEiRt2NFMVLfSgmbzNWvY3of8-g4OMPJK4jLpWuhUdztoMmq1xO2rLxNre9HU0Ra443_vilTIF6paOkITGPtChf7klMjA0OX_PFSPKBEGaufqYtbtrQUrl1PYXgLjaI8IlzODbJGd-m28gFfURRtJ48MqqrvKPLg-YzTkj2MUdJw9FEQGWJTks1MyFTt2cxh06hsP9M2wxfi-Q2JbpF6kOjZ6DnsGzDxmOtAoLTXL0EXCZKeIGzyRULrAF6qk1W5_W0G77iRebUAYfJ_BqWo4HYFP0W4QrvOEDP-0jWxvdgWBqkpP-7UqJh6nRCcOQm9XZpUa9lN_BoN9tFh2SGTPiJP8EmEEM-RgO8buirQfKLrARc6anvUsDWXmYjOKq5oijq5mRJuPnSuY-jyQEEHk1Z961a8UB0v2L_XAd5QIqqNbigPRyO2XFMI5mFx-xvTV-RDdHjyMpnz-DmOxHSr6drsRvQGDEabzW2muykmsry3uUywaR2mv76-yFXeegMBlkyRuWZAJAaDlxbkpBAkeyNJlM5vig6CFyKmx-G1AOEIdh78bBji2h_Vt4c0=w1134-h654-no" width="50%" height="50%" /></p>
+<img src="https://i.ibb.co/F4P2TBk/Screenshot-2019-10-16-at-12-25-52.png" width="50%" height="50%" /></p>
 
 If not, install both node.js and npm by entering the following code (node.js will be installed along with npm):
 
@@ -75,16 +75,16 @@ We need to make an application and bot in order for our bot to work. We also nee
 ### 1. Create the application & bot:
 First, head to discordapp.com/developers/applications/me. Log in with your account. Click New Application to get started, and give your application a name then click create. On the left tab, select Bot. Create the bot. If the bot is created, you will receive a message in the picture above that the bot has been created.
 
-<img src="https://photos.google.com/share/AF1QipPOiCaoDnBDYWDjH9z2zoO5RBj4Lpy8jpAfTuAQFMt-sBLi_mu0NJ7NLXUgZNgpYQ/photo/AF1QipNfd-cqpvo-DEp9xQp2HbIi_mvPbtKMiABN-fOY?key=VHVOamZGVmFfNEl5Rng3REhJMXFUU2ZEZVZFTEln" width="50%" height="50%"/></p>
+<img src="https://i.ibb.co/pvgGXsK/Screenshot-2019-10-21-at-16-28-00.png" width="50%" height="50%"/></p>
 
 ### 2. Send the bot to your Discord server.
-In the first tab of www.discordapp.com/developers, select OAuth2. Scroll a bit down and select bot from the Scope list.
+In the first tab of www.discordapp.com/developers, select OAuth2. Scroll a bit down and select bot from the Scopes list.
 
-<img src="https://photos.google.com/share/AF1QipPOiCaoDnBDYWDjH9z2zoO5RBj4Lpy8jpAfTuAQFMt-sBLi_mu0NJ7NLXUgZNgpYQ/photo/AF1QipNNILERhp_4pD3oWb-r7u0aNxjGAsyBcxZuj9SW?key=VHVOamZGVmFfNEl5Rng3REhJMXFUU2ZEZVZFTEln"/></p>
+<img src="https://i.ibb.co/fDvT9wL/Screenshot-2019-10-21-at-16-36-51.png"/></p>
 
 Then, in the list beneath, tick the following boxes:
 
-<img src="https://photos.google.com/share/AF1QipPOiCaoDnBDYWDjH9z2zoO5RBj4Lpy8jpAfTuAQFMt-sBLi_mu0NJ7NLXUgZNgpYQ/photo/AF1QipM9r1Z0Skxxw3SgcQy8fr9oKjCcJ_gGiDS4iZTM?key=VHVOamZGVmFfNEl5Rng3REhJMXFUU2ZEZVZFTEln"/></p>
+<img src="https://i.ibb.co/0GwHhFY/Screenshot-2019-10-21-at-16-38-07.png"/></p>
 
 At last, copy the link between the scope and permissions on the same page and paste in in your webbrowser's address bar.
 
@@ -95,11 +95,11 @@ We need to make a folder on your pc that will store all of your bot's files. Nam
 ### 1. Create a folder and three files
 We have to create three in that folder.
 
-Execute the following code in the terminal by opening the terminal again using CMD + spacebar and search for 'Terminal':
+Execute the following code in the terminal by opening the terminal again using CMD + spacebar and search for 'Terminal'. This will create a local directory:
 
 ```mkdir discordBot```
 
-Navigate though the folder by typing in the following code:
+Navigate though the folder in the Terminal by typing in the following code:
 
 ```cd discordBot```
 
@@ -109,16 +109,19 @@ Then type the following line:
 
 This will create a package.json file inside the project folder.
 
+
 Let’s start first by installing a well known Javascript library for interacting with Discord API called discord.js. Type in:
 
 ```npm install --save discord.js```
 
 Ignore the warnings for now.
 
-
+--- insert photo ----
 
 ### 2. Creating a file for the token
-Using any text editor, create a file and name it "auth.json".
+Using any text editor, create a file inside the local directory map called discordBot and name it "auth.json".
+
+---- INSERT PHOTO ----
 
 Paste the following code:
 
@@ -134,7 +137,7 @@ Login, Click Client Secret and replace the Bot Token.
 
 Save the file and make a new file.
 
-The next file, name this file package.json, paste the following code:
+The next file, inside the same directory, name this file package.json, paste the following code:
 
 ```{
 
@@ -153,7 +156,7 @@ The next file, name this file package.json, paste the following code:
 }
 ```
 
-Replace the author name with the name you want.
+Replace the  name with the name you want to give the bot.
 Save this file as “package.json” in your Discord bot folder.
 
 At last, the last .json file will be called bot.js and paste the following code:
@@ -187,6 +190,9 @@ Then at last, run the command as shown below:
 ```node bot.js```
 
 If you've done everything, it should say: Logged in as discordBot#xxxx!
+
+<img src="https://i.ibb.co/cFV5ybt/Screenshot-2019-10-16-at-16-05-07.png" width="50%" height="50%" /></p>
+
 
 Et voilà! the bot has been made for your discord server! You can message "Ping" in the channel to get a reply "Pong!"
 
