@@ -33,7 +33,7 @@ When you are logged into Discord you should see something like this:
 ### 2. Create a server
 For the server to create, we have to click the '+' in the bottom left corner highlighted in red.
 
-Give your server a name and enter the server region. Optionally you could add an image to your server. Once you completed these steps, you should see the server listing.
+Give your server a name and enter the server region. Optionally you could add an image to your server. Once you completed these steps, you should see the server listed in your Discord app.
 
 <p align="center">
 <img src="https://i.ibb.co/wNQvxGp/Screenshot-2019-10-16-at-12-08-44.png"/></p>
@@ -86,14 +86,16 @@ Then, in the list beneath, tick the following boxes:
 
 <img src="https://i.ibb.co/0GwHhFY/Screenshot-2019-10-21-at-16-38-07.png"/></p>
 
-At last, copy the link between the scope and permissions on the same page and paste in in your webbrowser's address bar.
+At last, copy the link between the scope and permissions on the same page and paste in in your webbrowser's address bar. You can now add the bot to your Discord channel.
+
+<img src="https://i.ibb.co/PhPbYNx/Screenshot-2019-10-26-at-20-26-16.png" />
 
 
 ## Step 5: Create a Local Directory
 We need to make a folder on your pc that will store all of your bot's files. Name it something like discordBot or something that can recognized easily.
 
 ### 1. Create a folder and three files
-We have to create three in that folder.
+We have to create three files in that folder. Two .json files and one .js file.
 
 Execute the following code in the terminal by opening the terminal again using CMD + spacebar and search for 'Terminal'. This will create a local directory:
 
@@ -114,14 +116,12 @@ Let’s start first by installing a well known Javascript library for interactin
 
 ```npm install --save discord.js```
 
-Ignore the warnings for now.
-
+<img src="https://i.ibb.co/XCBWmm6/Screenshot-2019-10-28-at-09-15-34.png"/>
 --- insert photo ----
 
 ### 2. Creating a file for the token
 Using any text editor, create a file inside the local directory map called discordBot and name it "auth.json".
 
----- INSERT PHOTO ----
 
 Paste the following code:
 
@@ -177,6 +177,9 @@ client.on('message', msg => {
 
 Save this last text file as “bot.js” in your Discord bot folder. I added a simple command that if you say "ping", the bot will reply with "Pong!"
 
+If done right, you should have created three files in the discordBot map with the following files:
+
+<img src="https://i.ibb.co/jrGm3gS/Screenshot-2019-10-28-at-09-17-25.png" />
 
 ## Step 6: Last Step & Testing the Bot
 ### 1. Open terminal
@@ -191,9 +194,12 @@ Then at last, run the command as shown below:
 
 If you've done everything, it should say: Logged in as discordBot#xxxx!
 
-<img src="https://i.ibb.co/cFV5ybt/Screenshot-2019-10-16-at-16-05-07.png" width="50%" height="50%" /></p>
+<img src="https://i.ibb.co/cFV5ybt/Screenshot-2019-10-16-at-16-05-07.png" width="50%" height="50%" />
 
 
 Et voilà! the bot has been made for your discord server! You can message "Ping" in the channel to get a reply "Pong!"
+
+
+<img src="https://i.ibb.co/RjndpvF/Screenshot-2019-10-16-at-16-03-41.png" width="50%" height="50% />
 
 This is just a basic bot for your discord channel. For more cool ideas check out: https://beebom.com/useful-discord-bots/
