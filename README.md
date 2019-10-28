@@ -200,4 +200,4 @@ Et voilà! the bot has been made for your discord server! You can message "Ping"
 
 <img src="https://i.ibb.co/RjndpvF/Screenshot-2019-10-16-at-16-03-41.png" width="50%" height="50%" />
 
-This is just a basic bot for your discord channel. For more cool ideas check out: https://beebom.com/useful-discord-bots/
+This is just a basic bot for your discord channel to talk to and get a response. For more cool ideas check out: https://beebom.com/useful-discord-bots/
